@@ -2,7 +2,7 @@ import 'dart:collection';
 import 'dart:math';
 
 import 'package:auto_size_text/auto_size_text.dart';
-import 'package:english_app/packages/quote/qoute_model.dart';
+import 'package:english_app/packages/quote/quote_model.dart';
 import 'package:english_app/pages/all_page.dart';
 import 'package:english_app/pages/all_words_page.dart';
 import 'package:english_app/values/app-styles.dart';

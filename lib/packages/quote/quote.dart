@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'qoute_model.dart';
+import 'quote_model.dart';
 import 'quotes.dart';
 
 class Quotes {
